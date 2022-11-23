@@ -12,7 +12,7 @@ int main() {
         cout << fibonacci << endl;
         cout << fibonacci_p << endl;
        
-       
+      
        
         for (int i = 1; i < n - 1; i++) {
             int temp = fibonacci;
